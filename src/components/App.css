@@ -1,0 +1,15 @@
+  body{
+    font-family : hpRegular,Arial,sans-serif;
+  }
+  *::-webkit-scrollbar {
+    width: 0.5em;
+    height: 0.5em;
+  }
+  *::-webkit-scrollbar-track {
+    
+    -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,20%);
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: #b9b8bb;
+    outline: 1px solid #f2f2f2;
+  }
