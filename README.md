@@ -1,10 +1,10 @@
 # single-spa-microfrontend
 
 ### To build and run this parcel, run following command:
-
+```
 - npm run build
 - npm run serve
-
+```
 ### In order to use this parcel as microfrontend in parent application , please create one react component in parent application and put following code:
 
 ```
