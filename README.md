@@ -7,6 +7,7 @@
 
 ### In order to use this parcel as microfrontend in parent application , please create one react component in parent application and put following code:
 
+```
 import React from 'react';
 import { withRouter } from "react-router";
 import { Button } from 'react-bootstrap';
@@ -26,3 +27,4 @@ class ParcelPage extends React.Component {
     }
 }
 export default withRouter(ParcelPage);
+```
